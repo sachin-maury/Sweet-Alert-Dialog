@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sweet Alert Dialog</string>
+    <string name="sweet_alert_dialogbox">Sweet Alert DialogBox</string>
+    <string name="button_1">BUTTON 1</string>
+</resources>
